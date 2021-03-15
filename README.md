@@ -1,6 +1,6 @@
 Simple database program written in java language to store gathered data about any system.
 
-Author : <InServeOfGod/>
+Author : InServeOfGod
 Unicode : UTF-8
 Language : English
 Version : 0.1
