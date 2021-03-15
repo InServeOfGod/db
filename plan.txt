@@ -1,0 +1,58 @@
+name
+surname
+mother name
+father name
+birth date
+mail address
+mail password
+PC username
+PC password
+PC OS
+PC MAC
+ROUTER ESSID
+ROUTER password
+ROUTER BSSID
+ROUTER external ip
+ROUTER PIN
+ROUTER admin username
+ROUTER admin password
+location
+details
+
+
+SAVING SYSTEM
+# like all other programs this program should have a dynamic system to add, edit and delete
+anything from the one.
+
+directory-name=data
+
+saving style :
+
+name:******
+surname:****
+
+/data/fields1
+/data/fields2
+/data/fields3
+/data/fields4
+
+
+
+
+
+
+// what about old plan.. :)
+
+new
+open
+print
+add
+del
+edit
+cancel
+exit
+
+wep, wpa, wpa2, wpa3
+
+hacked, secure, ....
+
